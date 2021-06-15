@@ -1,0 +1,59 @@
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Aminus_len0.01_supp90_binary.tree
+Reduce to 1 instances
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+Took 0.00299393 seconds
+No solution
+
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Aminus_len0.01_supp90_binary.tree
+Reduce to 1 instances
+
+maxTemporalDistance=0
+
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+trying 5
+
+maxTemporalDistance=1
+
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+trying 5
+trying 6
+trying 7
+trying 8
+
+maxTemporalDistance=2
+
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+trying 5
+trying 6
+trying 7
+trying 8
+trying 9
+
+maxTemporalDistance=3
+
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+trying 5
+Final solution: 
+ (MN996532_Bat_RaTG13,MN908947_Wuhan_Hu_1) ->  (MN908947_Wuhan_Hu_1,MT121216_Pangolin_MP789) ->  (MT121216_Pangolin_MP789,MT040334_PCoV_GX_P1E) ->  (NC_004718,KP886808_YNLF_31C) ->  (NC_004718,KJ473816_BtRs_BetaCoV_YN2013) ->  (KJ473816_BtRs_BetaCoV_YN2013,JX993988_Cp_Yunnan2011) ->  (KJ473816_BtRs_BetaCoV_YN2013,KP886808_YNLF_31C) ->  (DQ412042_Rf1,DQ412043_Rm1) ->  (DQ022305_HKU3_1,DQ412043_Rm1) ->  (DQ412042_Rf1,KP886808_YNLF_31C) ->  (JX993988_Cp_Yunnan2011,KP886808_YNLF_31C) ->  (DQ412043_Rm1,KP886808_YNLF_31C) ->  (DQ412042_Rf1,KP886808_YNLF_31C) ->  (DQ022305_HKU3_1,KP886808_YNLF_31C) ->  (KP886808_YNLF_31C,MT040334_PCoV_GX_P1E) -> 
+Took 1.06858 seconds
+Solution found for k=5 and p=3

@@ -1,0 +1,18 @@
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Cminus_nolabels.tree
+Reduce to 1 instances
+trying 0
+Final solution: 
+
+Took 0.000336185 seconds
+Solution found for k=0 and p=0
+
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Cminus_nolabels.tree
+Reduce to 1 instances
+
+maxTemporalDistance=0
+
+trying 0
+Final solution: 
+ (MN908947_Wuhan_Hu_1,MN996532_Bat_RaTG13) ->  (MT121216_Pangolin_MP789,MN996532_Bat_RaTG13) ->  (MT040334_PCoV_GX_P1E,MN996532_Bat_RaTG13) ->  (NC_004718,DQ022305_HKU3_1) ->  (DQ022305_HKU3_1,MN996532_Bat_RaTG13) -> 
+Took 0.0003421 seconds
+Solution found for k=0 and p=0

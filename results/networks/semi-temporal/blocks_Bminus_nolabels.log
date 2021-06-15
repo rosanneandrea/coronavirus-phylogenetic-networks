@@ -1,0 +1,35 @@
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Bminus_nolabels.tree
+Reduce to 1 instances
+trying 0
+trying 1
+trying 2
+Took 0.00126666 seconds
+No solution
+
+Processing file 0/1: ../../corona-networks/results/trees/blocks/binary-treechild-semitemp/blocks_Bminus_nolabels.tree
+Reduce to 1 instances
+
+maxTemporalDistance=0
+
+trying 0
+trying 1
+trying 2
+
+maxTemporalDistance=1
+
+trying 0
+trying 1
+trying 2
+trying 3
+trying 4
+
+maxTemporalDistance=2
+
+trying 0
+trying 1
+trying 2
+trying 3
+Final solution: 
+ (MN996532_Bat_RaTG13,MN908947_Wuhan_Hu_1) ->  (MN908947_Wuhan_Hu_1,MT121216_Pangolin_MP789) ->  (MT121216_Pangolin_MP789,MT040334_PCoV_GX_P1E) ->  (DQ412043_Rm1,DQ412042_Rf1) ->  (DQ412043_Rm1,DQ022305_HKU3_1) ->  (NC_004718,DQ022305_HKU3_1) ->  (NC_004718,DQ412042_Rf1) ->  (DQ022305_HKU3_1,DQ412042_Rf1) ->  (NC_004718,DQ412042_Rf1) ->  (DQ412042_Rf1,MT040334_PCoV_GX_P1E) -> 
+Took 0.0191 seconds
+Solution found for k=3 and p=2
